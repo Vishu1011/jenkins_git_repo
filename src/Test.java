@@ -4,7 +4,7 @@ public class Test {
 
         try
         {
-            String s="vidhi";
+            String s="vidhi patel";
             System.out.println(s.toUpperCase());
 
         }
