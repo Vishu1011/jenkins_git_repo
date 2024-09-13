@@ -10,7 +10,7 @@ public class Test {
         }
 
         finally {
-            System.out.println("execute always");
+            System.out.println("finally block execute always");
         }
     }
 }
